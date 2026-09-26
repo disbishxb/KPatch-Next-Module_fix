@@ -1,6 +1,6 @@
 # KPatch-Next v0.0.1-fix
 
-> 📦 [Releases 页面 / Releases page](https://github.com/disbishxb/KPatch-Next-Module_fix/releases/tag/v0.0.1-fix)
+> 📦 [Releases](https://github.com/disbishxb/KPatch-Next-Module_fix/releases/tag/v0.0.1-fix)
 
 > 基于官方 KPatch-Next，加固内核修补安全性，修复语言回退问题。
 > Hardened boot patching + i18n fix, based on upstream KPatch-Next.
@@ -44,7 +44,7 @@
 
 ### 安装
 
-1. 在 KernelSU / APatch / Magisk 管理器里安装 zip
+1. 在 KernelSU / Magisk 管理器里安装 zip
 2. 重启设备
 3. 打开 KPatch-Next WebUI
 
@@ -87,7 +87,7 @@ If you have **already patched with an older version**:
 
 ### Installation
 
-1. Install the zip via KernelSU / APatch / Magisk manager
+1. Install the zip via KernelSU / Magisk manager
 2. Reboot
 3. Open KPatch-Next WebUI
 
