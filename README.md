@@ -112,7 +112,7 @@ If you have **already patched with an older version**:
 ## 🔧 Compatibility / 兼容性
 
 - arm64 devices / arm64 设备
-- KernelSU / APatch / Magisk
+- KernelSU / Magisk
 
 ---
 
