@@ -1,0 +1,26 @@
+{
+  "name": "kpatch_next",
+  "version": "0.0.1",
+  "description": "KPatch-Next-Module WebUI",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --emptyOutDir"
+  },
+  "keywords": [
+    "KernelPatch",
+    "Magisk",
+    "KernelSU",
+    "WebUI"
+  ],
+  "author": "KOWX712",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "vite": "^7.3.0",
+    "vite-plugin-html": "^3.2.2"
+  },
+  "dependencies": {
+    "@material/web": "^2.4.1",
+    "kernelsu-alt": "^3.0.0"
+  }
+}
